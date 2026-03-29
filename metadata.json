@@ -1,0 +1,5 @@
+{
+  "name": "CareOps AI",
+  "description": "Healthcare operations agent for medical coding, claims adjudication, and prior authorization with auditable reasoning.",
+  "requestFramePermissions": []
+}
